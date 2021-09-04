@@ -6,5 +6,5 @@
 
 ## Floorp Bata
 
-## Release Note
+## Floorp Note
 [Download](https://repo.ablaze.one/floorp/1.2.4/Floorp_Browser_setup.exe)
