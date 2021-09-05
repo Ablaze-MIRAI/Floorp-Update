@@ -5,3 +5,5 @@
 
 - ## Floorp v1.2.3
 [Download](https://repo.ablaze.one/floorp/1.2.3/Floorp_setup.exe)
+
+Floorpは高速かつ軽量のブラウザ
